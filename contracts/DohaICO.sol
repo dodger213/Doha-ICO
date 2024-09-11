@@ -6,7 +6,7 @@ import "./DohaToken.sol";
 
 contract DohaICO is Ownable {
     DohaToken public token;
-    bool public isICORunning ;
+    bool public isICORunning;
     uint256 public tokensPerEth = 66; // 66 DOOHA for every 100 wei (0.66 DOOHA per 1 wei)
 
     constructor(DohaToken _token) {
