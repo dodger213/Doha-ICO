@@ -21,10 +21,16 @@ Only the owner (Wallet that issued the contract) can destroy or terminate the co
 
 Fork it and do your thing. Or get in touch with me and we can figure something out. 
 
-### Authors
+## License
 
-* **Mitsuru Kudo** - *Initial work* - [dodger213](https://github.com/dodger213)
+This project is licensed under the [MIT License](./LICENSE).
 
-### License
+## 📞 Contact & Support
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+- **Email**: [imcrazysteven143@gmail.com](mailto:imcrazysteven143@gmail.com)
+- **GitHub**: [Steven (@imcrazysteven)](https://github.com/imcrazysteven)
+- **Telegram**: [@imcrazysteven](https://t.me/imcrazysteven)
+- **Twitter**: [@imcrazysteven](https://x.com/imcrazysteven)
+- **Instagram**: [@imcrazysteven](https://www.instagram.com/imcrazysteven/)
+
+---
